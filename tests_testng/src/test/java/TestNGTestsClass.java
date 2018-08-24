@@ -55,6 +55,7 @@ public class TestNGTestsClass {
     @Test
     public void grayTestNGTestIgnored() {
         System.out.println("testNGTestIgnored running");
+        System.out.println("pewpew");
         int i = 1 / 0;
         Assert.assertEquals(1, i);
     }
