@@ -1,0 +1,9 @@
+rootProject.name = 'IntelliJTest'
+include 'tests_jbehave'
+include 'tests_junit'
+include 'tests_testng'
+include 'code_go'
+include 'code_groovy'
+include 'code_python'
+include 'code_features'
+
