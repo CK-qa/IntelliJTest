@@ -1,4 +1,4 @@
-package com;
+package com.TODOFeature;
 
 public class MultipleTODOs extends ParentMultipleTODOs {
 
@@ -15,9 +15,10 @@ public class MultipleTODOs extends ParentMultipleTODOs {
        line 9
        line 10
        line 12
-
       this is not fix_me
      */
+
+    //todo
 
 
     //TODO
@@ -65,16 +66,21 @@ public class MultipleTODOs extends ParentMultipleTODOs {
 
     /*
     todo
-
      */
 
     /*
     fixme
-     line 1
-     צו טוהן 2
-     line 3
-     line 4
-     line 5
+     this is line 1
+     צו טוהן
+     this is line 3
+     this is line 4
+     this is line 5
      */
 
+    /**
+     * jdoc
+     * todo jhfdjhfdjhdjf
+     *  jhdjhfdjhfdjhf
+     * not to_do
+     */
 }
