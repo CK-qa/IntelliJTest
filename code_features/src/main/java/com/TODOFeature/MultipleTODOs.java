@@ -54,13 +54,15 @@ public class MultipleTODOs extends ParentMultipleTODOs {
      in chinese:
      去做
      in georgian:
-     კეთება
+     კეთება ქართული
      in yiddish:
      צו טוהן
      in hindi:
      करने के लिए
      in arabic:
      لكى يفعل
+     in thai:
+     ทำมัน
      end
      */
 

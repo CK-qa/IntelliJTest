@@ -1,0 +1,18 @@
+CATALOG {
+background-color: #ffffff;
+width: 100%;
+}
+
+CD {
+display: block;
+margin-bottom: 30pt;
+margin-left: 0;
+}
+
+TITLE {
+display: block;
+color: #ff0000;
+font-size: 20pt;
+}
+
+
