@@ -12,14 +12,7 @@ public class SimpleJavaCodeFile {
 
 	public SimpleJavaCodeFile(String str) {
 
-
 	}
-	//todo
-
-	//TODO
-	// jdhjhdjdh
-
-
 
 
 	public static void main(String[] args) {
