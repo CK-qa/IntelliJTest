@@ -81,11 +81,9 @@ public class MultipleTODOs extends ParentMultipleTODOs {
 
 
     /**
-     *
-     * @param s
-     * todo in jdoc
-     *  with multiple lines
-     * and this is not
+     * @param s todo in jdoc
+     *           with multiple lines
+     *           and this is not
      */
     public void foo(String s) {
         /*
