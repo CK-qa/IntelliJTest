@@ -1,0 +1,5 @@
+// Tab size: 2
+if(foo) {
+	char quux[] = {0, 1,     // "0" and "2"
+	               2, 3};    // remain aligned
+}
