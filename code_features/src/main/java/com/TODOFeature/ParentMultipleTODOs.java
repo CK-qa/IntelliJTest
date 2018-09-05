@@ -7,20 +7,20 @@ public class ParentMultipleTODOs {
     //some string in thai lang
     String inThai = "ดีที่สุด";
 
+    //todo
+    //  lalala
+    //  pewpews
+
     /**
      * TODO
      *  this one is to check params:
-     *  check @param
-     *  check @return
-     *  check varname javadoc
+     *  write description of @param
+     *  write description of @return
      *
-     *  @param todoItem str
-     *  @param fixmeItem int
-     *  @param javadoc str
-     *  @param todolist list
-     *  @return
-     *
-     *  and this is it
+     * @param todoItem  str
+     * @param fixmeItem int
+     * @param javadoc   description
+     * @param todolist  description
      */
     public static String todoCheck(String todoItem, int fixmeItem, String javadoc, List<String> todolist) {
         return todoItem + fixmeItem + javadoc;
