@@ -1,0 +1,38 @@
+package com.ImportsTest;
+
+import java.util.*;
+
+import static org.hamcrest.CoreMatchers.*;
+import static org.hamcrest.Matchers.containsInAnyOrder;
+import static org.hamcrest.Matchers.hasSize;
+import static org.junit.Assert.*;
+
+
+
+class ImportTest {
+
+    Map<String, String> map;
+    Set<String> set;
+
+    public ImportTest(Map<String, String> map, Set<String> set) {
+        this.map = map;
+        this.set = set;
+    }
+
+    public void test() {
+        List<String> testList = Arrays.asList("peewpew", "ololo");
+        assertThat("","String", containsString("pewpew") );
+        assertThat("Text", testList, containsInAnyOrder("a", "s"));
+        assertThat("", testList, hasSize(2));
+        assertThat("", "sss", endsWith("dd"));
+        assertTrue(1 == 1);
+        assertFalse(1 != 2);
+        assertNotEquals(1, 23);
+
+    }
+
+    private class InnerClass {
+
+    }
+
+}
