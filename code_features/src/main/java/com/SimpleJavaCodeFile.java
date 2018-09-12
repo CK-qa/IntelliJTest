@@ -1,72 +1,74 @@
 package com;
 
-import java.util.Locale;
-
 public class SimpleJavaCodeFile {
 
-	String str;
-	int i;
-	boolean foo;
+    String str;
+    int i;
+    boolean foo;
 
-	char[] c = {1, 3, 4, 5};
+    char[] c = {1, 3, 4, 5};
 
-	public SimpleJavaCodeFile(String str) {
+    public SimpleJavaCodeFile(String str) {
 
-	}
-
-
-	public static void main(String[] args) {
-		System.out.println(methodWithNestedCode("uno", 1));
-	}
-
-	int toUse() {
-		return method(1, 2);
-	}
-
-	int toUse1() {
-		return method(2, 3);
-	}
+    }
 
 
-	private static String methodWithNestedCode(String s,
-	                                           int i) {
-		StringBuilder sb = new StringBuilder();
-		String res = "";
-		char[] helloArray = {'h',
-		        'e',
-		        'l',
-		        'l',
-		        'o',
-		        '.'};
-		for (char c : helloArray) {
-			res = sb.append(c).append(" ")
-			        .toString().replaceAll("\\s", "");
-		}
-		return res
-		        .toUpperCase();
-	}
+    public static void main(String[] args) {
+        System.out.println(methodWithNestedCode("uno", 1));
+    }
 
-	private void init() {
+    private static String methodWithNestedCode(String s,
+                                               int i) {
+        StringBuilder sb = new StringBuilder();
+        String res = "";
+        char[] helloArray = {'h',
+                'e',
+                'l',
+                'l',
+                'o',
+                '.'};
+        for (char c : helloArray) {
+            res = sb.append(c).append(" ")
+                    .toString().replaceAll("\\s", "");
+        }
+        return res
+                .toUpperCase();
+    }
 
-		SimpleJavaCodeFile adapter = new SimpleJavaCodeFile(
-				this.str);
-	}
+    int toUse() {
+        return method(1, 2);
+    }
 
-	int g(int a, int b) {
-		return a + b;
-	}
+    int toUse1() {
+        return method(2, 3);
+    }
 
-	int method(int x,
-	           int y) {
-		return g(x,
-				y);
-	}
+    private void init() {
 
-	int d(int x,
-	      int y) {
-		return g(x,
-				y);
-	}
+        SimpleJavaCodeFile adapter = new SimpleJavaCodeFile(
+                this.str);
+    }
 
+    int g(int a, int b) {
+        return a + b;
+    }
 
+    int method(int x,
+               int y) {
+        return g(x,
+                y);
+    }
+
+    int d(int x,
+          int y) {
+        return g(x,
+                y);
+    }
+
+    public class InnerClass {
+        public void foo() {
+
+        }
+
+    }
 }
