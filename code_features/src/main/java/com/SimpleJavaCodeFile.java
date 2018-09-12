@@ -1,5 +1,8 @@
 package com;
 
+import java.util.Arrays;
+import java.util.Locale;
+
 public class SimpleJavaCodeFile {
 
     String str;
@@ -9,13 +12,21 @@ public class SimpleJavaCodeFile {
     char[] c = {1, 3, 4, 5};
 
     public SimpleJavaCodeFile(String str) {
+    }
 
+    SimpleJavaCodeFile sj = new SimpleJavaCodeFile("TestStringTo see hints on completion");
+
+    private void regexCheck() {
+        str.replaceAll("\\QmyString\\E", "");
     }
 
 
     public static void main(String[] args) {
         System.out.println(methodWithNestedCode("uno", 1));
     }
+
+
+
 
     private static String methodWithNestedCode(String s,
                                                int i) {
@@ -35,18 +46,16 @@ public class SimpleJavaCodeFile {
                 .toUpperCase();
     }
 
+    private void init() {
+        SimpleJavaCodeFile adapter = new SimpleJavaCodeFile(
+                this.str);
+    }
     int toUse() {
         return method(1, 2);
     }
 
     int toUse1() {
         return method(2, 3);
-    }
-
-    private void init() {
-
-        SimpleJavaCodeFile adapter = new SimpleJavaCodeFile(
-                this.str);
     }
 
     int g(int a, int b) {
@@ -63,6 +72,10 @@ public class SimpleJavaCodeFile {
           int y) {
         return g(x,
                 y);
+    }
+
+    private void testSoutv() {
+        System.out.println("this = " + this);
     }
 
     public class InnerClass {

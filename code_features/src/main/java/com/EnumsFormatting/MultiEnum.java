@@ -2,9 +2,10 @@ package com.EnumsFormatting;
 
 
 /**
- * javadoc
+ * JavaDoc
  */
-public enum MultiEnum {HIGH(3),
+public enum MultiEnum {
+    HIGH(3),
     MEDIUM(2),
     LOW(1);
 
