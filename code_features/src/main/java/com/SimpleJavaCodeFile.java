@@ -82,6 +82,5 @@ public class SimpleJavaCodeFile {
         public void foo() {
 
         }
-
     }
 }
