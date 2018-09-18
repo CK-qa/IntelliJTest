@@ -1,3 +1,16 @@
+pluginManagement {
+    repositories {
+        maven {
+            url 'http://dl.bintray.com/kotlin/kotlin-eap'
+        }
+
+        mavenCentral()
+
+        maven {
+            url 'https://plugins.gradle.org/m2/'
+        }
+    }
+}
 rootProject.name = 'IntelliJTest'
 include 'tests_jbehave'
 include 'tests_junit'
@@ -6,4 +19,5 @@ include 'code_go'
 include 'code_groovy'
 include 'code_python'
 include 'code_features'
+include 'code_kotlin'
 
