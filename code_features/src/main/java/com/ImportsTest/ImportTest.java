@@ -36,5 +36,4 @@ class ImportTest {
     private class InnerClass {
 
     }
-
 }
