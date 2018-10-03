@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../code_kotlin/build/classes/kotlin/main" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.0-rc-57/6ef69ea509bb6dfbacb82d78572ca13b5f4d9704/kotlin-stdlib-jdk8-1.3.0-rc-57.jar:/Users/vbozhko/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.0-rc-57/29a25f754451d4a24bffa17edadef89d8d67f177/kotlin-stdlib-jdk7-1.3.0-rc-57.jar:/Users/vbozhko/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0-rc-57/17cd275070921a36229747a3cffe0bb30608bc24/kotlin-stdlib-1.3.0-rc-57.jar:/Users/vbozhko/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0-rc-57/ca64ac4c1710846a21daa81add832c36f29bcaae/kotlin-stdlib-common-1.3.0-rc-57.jar:/Users/vbozhko/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="code_kotlin" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.0-rc-57/8da01a4f2c32cef67ead7407a7257cde5f34109c/kotlin-scripting-compiler-embeddable-1.3.0-rc-57.jar" />
+            </array>
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>
