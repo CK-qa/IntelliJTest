@@ -1,3 +1,5 @@
 public class VeryLongClassNameToCheckItsDisplayOnSearchEverywherePopup_ShouldBeShownWithoutScrollbars {
-    //dddc
+
+    // file which is ignored by VCS
+    //
 }

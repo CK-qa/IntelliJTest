@@ -36,6 +36,7 @@ class ImportTest {
     private class InnerClass {
     }
 
+
     public String sss(String s) {
         set.add("SSs");
         return String.valueOf(set.size());
