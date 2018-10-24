@@ -1,0 +1,23 @@
+Project tool window | context menu of a file | Compare File with Editor
+Project tool window | context menu of a file | Compare Files
+Version Control tool window | Local Changes tab | - icons actions diff svg
+Version Control tool window | context menu of a folder or file | Show Diff
+
+This dialog is displayed every time you compare two files or two versions of a file (local changes or changes between local files and their revisions in a remote repository). You can compare files of any types, including binaries and .jar files.
+
+Note that you can open the differences viewer without running IntelliJ IDEA. To do this, execute the following command:
+<path to IntelliJ IDEA executable file> diff <path_1> <path_2>
+path_1path_2
+
+The differences viewer provides a powerful editor that enables code completion, live templates, etc.
+Diff & Merge viewer
+Item	Tooltip and Shortcut	Description
+icons actions previousOccurence svg/icons actions nextOccurence svg	Previous Difference / Next Difference ⇧F7 F7
+	Use these buttons to jump to the next/previous difference.
+
+When the last/first difference is hit, IntelliJ IDEA suggests to click the arrow buttons F7/⇧F7 once more and compare other files, depending on the Go to the next file after reaching last change option in the Differences Viewer settings.
+
+This behavior is supported only when the Differences Viewer is invoked from the Version Control tool window.
+icons actions back svg
+icons actions forward svg	Compare Previous/Next File
+⇧⌘[⇧⌘]	Click these buttons to compare the local copy of the previous/next file with its update from the server.
