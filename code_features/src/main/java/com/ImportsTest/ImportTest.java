@@ -1,15 +1,16 @@
 package com.ImportsTest;
 
 
-import java.util.*;
+import java.util.Map;
+import java.util.Set;
 
-import static org.hamcrest.CoreMatchers.endsWith;
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.junit.Assert.*;
-import static org.hamcrest.CoreMatchers.containsString;
-
-import static org.hamcrest.Matchers.containsInAnyOrder;
-import static org.hamcrest.Matchers.hasSize;
+//import static org.hamcrest.CoreMatchers.endsWith;
+//import static org.hamcrest.MatcherAssert.assertThat;
+//import static org.junit.Assert.*;
+//import static org.hamcrest.CoreMatchers.containsString;
+//
+//import static org.hamcrest.Matchers.containsInAnyOrder;
+//import static org.hamcrest.Matchers.hasSize;
 
 
 class ImportTest {
@@ -23,22 +24,21 @@ class ImportTest {
     }
 
     public void test() {
-        List<String> testList = Arrays.asList("peewpew", "ololo");
-        assertThat("", "String", containsString("pewpew"));
-        assertThat("Text", testList, containsInAnyOrder("a", "s"));
-        assertThat("", testList, hasSize(2));
-        assertThat("", "sss", endsWith("dd"));
-        assertTrue(1 == 1);
-        assertFalse(1 != 2);
-        assertNotEquals(1, 23);
+//        List<String> testList = Arrays.asList("peewpew", "ololo");
+//        assertThat("", "String", containsString("pewpew"));
+//        assertThat("Text", testList, containsInAnyOrder("a", "s"));
+//        assertThat("", testList, hasSize(2));
+//        assertThat("", "sss", endsWith("dd"));
+//        assertTrue(1 == 1);
+//        assertFalse(1 != 2);
+//        assertNotEquals(1, 23);
     }
-
-    private class InnerClass {
-    }
-
 
     public String sss(String s) {
         set.add("SSs");
         return String.valueOf(set.size());
+    }
+
+    private class InnerClass {
     }
 }

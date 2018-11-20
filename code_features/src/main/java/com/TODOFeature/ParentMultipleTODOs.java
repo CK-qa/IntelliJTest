@@ -13,9 +13,9 @@ public class ParentMultipleTODOs {
 
     /**
      * TODO
-     *  this one is to check params:
-     *  write description of @param
-     *  write description of @return
+     * this one is to check params:
+     * write description of @param
+     * write description of @return
      *
      * @param todoItem  str
      * @param fixmeItem int
