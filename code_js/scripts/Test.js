@@ -6,6 +6,7 @@ function getText() {
     return result;
 }
 
+
 console.log(getText());
 setTimeout(function () {
     console.log('\nAfter 1 sec delay:');

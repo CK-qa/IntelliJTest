@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
+<module type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="IntelliJTest" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId=":code_go" linkedProjectPath="$MODULE_DIR$/../../../code_go" rootProjectPath="$MODULE_DIR$/../../.." />
   <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../code_go">
+      <excludeFolder url="file://$MODULE_DIR$/../../../code_go/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../code_go/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../code_go/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
 </module>
