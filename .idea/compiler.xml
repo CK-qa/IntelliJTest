@@ -14,6 +14,8 @@
       <module name="code_python_test" target="1.8" />
       <module name="IntelliJTest_main" target="1.8" />
       <module name="IntelliJTest_test" target="1.8" />
+      <module name="tests_cucumber_main" target="1.8" />
+      <module name="tests_cucumber_test" target="1.8" />
       <module name="tests_jbehave_main" target="1.8" />
       <module name="tests_jbehave_test" target="1.8" />
       <module name="tests_junit_main" target="1.8" />
