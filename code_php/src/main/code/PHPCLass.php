@@ -12,8 +12,8 @@ class PHPCLass
         ?>
 
         <script language=javascript>
-
-            /**
+*
+            /*
              *
              * @param    XXX $fromfrm
              * @param XXX $tofrm

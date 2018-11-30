@@ -13,7 +13,9 @@ public class VirtualComma {
         return theOnlyParameter;
     }
 
-    void foo() {
+    void foo()
+    {
+
         methodWithParams(1, 1, "dd", "ww", methodWithParams2(true, false), 3);
     }
 
