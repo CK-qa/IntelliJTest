@@ -1,0 +1,3 @@
+[submodule "vcs"]
+	path = vcs
+	url = https://github.com/vbo-acc/vcs_adventures.git
