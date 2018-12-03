@@ -4,3 +4,12 @@
 [submodule "simple"]
 	path = simple
 	url = git@github.com:CK-qa/SimpleProject.git
+[submodule "vb_repo"]
+	path = vb_repo
+	url = git@github.com:vbozh/vb.git
+[submodule "cucumber"]
+	path = cucumber
+	url = git@github.com:CK-qa/simpleCucumberProject.git
+[submodule "junit"]
+	path = junit
+	url = git@github.com:CK-qa/projectJunit.git
