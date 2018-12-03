@@ -1,3 +1,6 @@
 [submodule "vcs"]
 	path = vcs
 	url = https://github.com/vbo-acc/vcs_adventures.git
+[submodule "simple"]
+	path = simple
+	url = git@github.com:CK-qa/SimpleProject.git
