@@ -13,3 +13,6 @@
 [submodule "junit"]
 	path = junit
 	url = git@github.com:CK-qa/projectJunit.git
+[submodule "jbtest"]
+	path = jbtest
+	url = git@github.com:CK-qa/JBTest.git

@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cucumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jbtest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/junit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/simple" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vb_repo" vcs="Git" />
