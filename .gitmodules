@@ -25,3 +25,9 @@
 [submodule "lottery"]
 	path = lottery
 	url = git@github.com:CK-qa/NumsSpreading.git
+[submodule "patterns"]
+	path = patterns
+	url = git@github.com:iluwatar/java-design-patterns.git
+[submodule "pluginjunit"]
+	path = pluginjunit
+	url = git@github.com:jenkinsci/junit-plugin.git
