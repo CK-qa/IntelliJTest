@@ -4,7 +4,7 @@ RED="\033[1;31m"
 GREEN="\033[1;32m"
 NOCOLOR="\033[0m"
 
-email="info@vlastimilburian.cz"
+email="vbo.secondary@google.com"
 
 declare -a ips=("88.86.120.212" "88.86.120.223" "88.86.120.250" "88.86.120.213" "88.86.120.103" "46.234.104.23" "46.234.104.24")
 
