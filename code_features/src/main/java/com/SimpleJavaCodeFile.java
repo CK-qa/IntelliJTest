@@ -25,8 +25,9 @@ public class SimpleJavaCodeFile {
         System.out.println(methodWithNestedCode("uno", 1));
     }
 
+    public void change() {
 
-
+    }
 
     private static String methodWithNestedCode(String s,
                                                int i) {
@@ -40,11 +41,16 @@ public class SimpleJavaCodeFile {
                 '.'};
         for (char c : helloArray) {
             res = sb.append(c).append(" ")
-                    .toString().replaceAll("\\s", "");
+                    .toString().replaceAll("\\s", "\\");
         }
         return res
                 .toUpperCase();
     }
+    public boolean boo() {
+        return true;
+    }
+
+
 
     private void init() {
         SimpleJavaCodeFile adapter = new SimpleJavaCodeFile(

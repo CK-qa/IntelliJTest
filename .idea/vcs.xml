@@ -2,16 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cucumber" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jbtest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/junit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lottery" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/patterns" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/pics" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/pluginjunit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/shelvetest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/simple" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/vb_repo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/vcs" vcs="Git" />
   </component>
 </project>
