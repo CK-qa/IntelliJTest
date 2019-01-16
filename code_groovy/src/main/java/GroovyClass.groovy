@@ -10,6 +10,7 @@ class GroovyClass {
 	static void main(String[] args) {
 		summ(1, 7)
 
+
 	}
 
 	static void meth() {
@@ -17,6 +18,5 @@ class GroovyClass {
 	}
 
 	void methWithParams(int integer, int integer2, String string, Object object, boolean boo, Integer intgr) {
-
 	}
 }
