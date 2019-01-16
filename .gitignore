@@ -12,5 +12,4 @@ dataSources.local.xml
 rest-client.private.env.json
 http-client.private.env.json
 
-*.iml
 
