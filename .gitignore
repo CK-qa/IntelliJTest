@@ -12,4 +12,7 @@ dataSources.local.xml
 rest-client.private.env.json
 http-client.private.env.json
 
+# file to test
+
+filetotest.txt
 

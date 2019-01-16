@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_main.iml" group="IntelliJTest/code_python" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" group="IntelliJTest/code_python" />
       <module fileurl="file://$PROJECT_DIR$/code_scala/code_scala.iml" filepath="$PROJECT_DIR$/code_scala/code_scala.iml" group="IntelliJTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" group="IntelliJTest/tests_cucumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" group="IntelliJTest/tests_cucumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" group="IntelliJTest/tests_cucumber" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" group="IntelliJTest/tests_jbehave" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" group="IntelliJTest/tests_jbehave" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" group="IntelliJTest/tests_jbehave" />
