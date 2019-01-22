@@ -49,6 +49,7 @@ public class TestNGTestsClass {
         System.out.println("testNGTestExpectedException running");
         int i = 1 / 0;
         Assert.assertEquals(1, i);
+
     }
 
     @Ignore
