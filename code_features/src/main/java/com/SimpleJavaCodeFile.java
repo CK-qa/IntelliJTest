@@ -67,10 +67,4 @@ public class SimpleJavaCodeFile {
 		return g(x,
 				y);
 	}
-
-
-
-
-
-
 }
