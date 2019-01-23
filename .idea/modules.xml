@@ -2,40 +2,40 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntelliJTest.iml" filepath="$PROJECT_DIR$/IntelliJTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntelliJTest.iml" filepath="$PROJECT_DIR$/IntelliJTest.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest_main.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest_test.iml" group="IntelliJTest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_features/code_features.iml" filepath="$PROJECT_DIR$/.idea/modules/code_features/code_features.iml" group="code_features" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_features/code_features_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_features/code_features_main.iml" group="code_features" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_features/code_features_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_features/code_features_test.iml" group="code_features" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/code_go.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/code_go.iml" group="code_go" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/code_go_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/code_go_main.iml" group="code_go" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/code_go_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/code_go_test.iml" group="code_go" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy.iml" filepath="$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy.iml" group="code_groovy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_main.iml" group="code_groovy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_test.iml" group="code_groovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_features/code_features.iml" filepath="$PROJECT_DIR$/.idea/modules/code_features/code_features.iml" group="IntelliJTest/code_features" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_features/code_features_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_features/code_features_main.iml" group="IntelliJTest/code_features" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_features/code_features_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_features/code_features_test.iml" group="IntelliJTest/code_features" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/code_go.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/code_go.iml" group="IntelliJTest/code_go" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/code_go_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/code_go_main.iml" group="IntelliJTest/code_go" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/code_go_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/code_go_test.iml" group="IntelliJTest/code_go" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy.iml" filepath="$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy.iml" group="IntelliJTest/code_groovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_main.iml" group="IntelliJTest/code_groovy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_groovy/code_groovy_test.iml" group="IntelliJTest/code_groovy" />
       <module fileurl="file://$PROJECT_DIR$/code_js/code_js.iml" filepath="$PROJECT_DIR$/code_js/code_js.iml" group="IntelliJTest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin.iml" group="code_kotlin" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_main.iml" group="code_kotlin" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_test.iml" group="code_kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin.iml" group="IntelliJTest/code_kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_main.iml" group="IntelliJTest/code_kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_kotlin/code_kotlin_test.iml" group="IntelliJTest/code_kotlin" />
       <module fileurl="file://$PROJECT_DIR$/code_php/code_php.iml" filepath="$PROJECT_DIR$/code_php/code_php.iml" group="IntelliJTest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python.iml" group="code_python" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_main.iml" group="code_python" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" group="code_python" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python.iml" group="IntelliJTest/code_python" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_main.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_main.iml" group="IntelliJTest/code_python" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" group="IntelliJTest/code_python" />
       <module fileurl="file://$PROJECT_DIR$/code_scala/code_scala.iml" filepath="$PROJECT_DIR$/code_scala/code_scala.iml" group="IntelliJTest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" group="tests_cucumber" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" group="tests_cucumber" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" group="tests_cucumber" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" group="tests_jbehave" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" group="tests_jbehave" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" group="tests_jbehave" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" group="tests_junit" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_main.iml" group="tests_junit" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_test.iml" group="tests_junit" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng.iml" group="tests_testng" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_main.iml" group="tests_testng" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_test.iml" group="tests_testng" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" group="IntelliJTest/tests_cucumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" group="IntelliJTest/tests_cucumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" group="IntelliJTest/tests_cucumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" group="IntelliJTest/tests_jbehave" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" group="IntelliJTest/tests_jbehave" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" group="IntelliJTest/tests_jbehave" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" group="IntelliJTest/tests_junit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_main.iml" group="IntelliJTest/tests_junit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_test.iml" group="IntelliJTest/tests_junit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng.iml" group="IntelliJTest/tests_testng" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_main.iml" group="IntelliJTest/tests_testng" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_test.iml" group="IntelliJTest/tests_testng" />
     </modules>
   </component>
 </project>
