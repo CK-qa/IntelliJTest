@@ -29,8 +29,8 @@
     <output url="file://$MODULE_DIR$/../../../code_kotlin/out/production/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../code_kotlin/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../../code_kotlin/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../code_kotlin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../code_kotlin/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../code_kotlin/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
