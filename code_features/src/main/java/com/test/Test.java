@@ -5,8 +5,4 @@ public class Test {
 	//minor
 
 	//test
-
-	//test
-
-	//another commit
 }
