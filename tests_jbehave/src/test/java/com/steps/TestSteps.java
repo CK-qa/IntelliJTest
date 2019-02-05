@@ -34,6 +34,7 @@ public class TestSteps {
         }
     }
 
+
     @Then("the stack should have $number elements")
     public void assertElementCount(int elementCount) {
         Assert.assertThat(stack.size(), equalTo(elementCount));
@@ -44,5 +45,4 @@ public class TestSteps {
     public void testItProperly() {
         Assert.assertFalse(false);
     }
-
 }
