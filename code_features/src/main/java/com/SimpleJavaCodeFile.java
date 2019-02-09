@@ -47,6 +47,10 @@ public class SimpleJavaCodeFile {
         str.replaceAll("\\QmyString\\E", "");
     }
 
+    private void regexCheck() {
+        str.replaceAll("\\QmyString\\E", "");
+    }
+
     private void init() {
         SimpleJavaCodeFile adapter = new SimpleJavaCodeFile(
                 this.str);

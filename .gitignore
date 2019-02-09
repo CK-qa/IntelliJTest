@@ -1,7 +1,6 @@
 # Default ignored files
-.gradle/
-.idea/
-out/
+/.idea/shelf/
+/.idea/workspace.xml
 
 # Datasource local storage ignored files
 /.idea/dataSources/
@@ -12,7 +11,8 @@ dataSources.local.xml
 rest-client.private.env.json
 http-client.private.env.json
 
-# to test
+#
+to test
 
 filetotest.txt
 foldername
@@ -22,6 +22,10 @@ file[0-9].txt
 
 
 
+
+# test needs
+
+generated
 
 # test needs
 
