@@ -1,6 +1,7 @@
 # Default ignored files
 /.idea/shelf/
 /.idea/workspace.xml
+/.idea/libraries/
 
 # Datasource local storage ignored files
 /.idea/dataSources/
@@ -21,12 +22,7 @@ file[0-9].txt
 
 
 
-
-
-# test needs
-
-generated
+*.iml
 
 # test needs
-
 generated
