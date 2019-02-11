@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntelliJTest.iml" filepath="$PROJECT_DIR$/IntelliJTest.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest_main.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest_test.iml" group="IntelliJTest" />
@@ -25,16 +24,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" filepath="$PROJECT_DIR$/.idea/modules/code_python/code_python_test.iml" group="IntelliJTest/code_python" />
       <module fileurl="file://$PROJECT_DIR$/code_scala/code_scala.iml" filepath="$PROJECT_DIR$/code_scala/code_scala.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" group="IntelliJTest/tests_cucumber" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber.iml" group="IntelliJTest/tests_cucumber" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" group="IntelliJTest/tests_cucumber" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_main.iml" group="tests_cucumber" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" group="IntelliJTest/tests_cucumber" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_cucumber/tests_cucumber_test.iml" group="IntelliJTest/tests_cucumber" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" group="IntelliJTest/tests_jbehave" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave.iml" group="tests_jbehave" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_main.iml" group="IntelliJTest/tests_jbehave" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_jbehave/tests_jbehave_test.iml" group="IntelliJTest/tests_jbehave" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" group="IntelliJTest/tests_junit" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit.iml" group="IntelliJTest/tests_junit" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_main.iml" group="IntelliJTest/tests_junit" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_junit/tests_junit_test.iml" group="IntelliJTest/tests_junit" />
