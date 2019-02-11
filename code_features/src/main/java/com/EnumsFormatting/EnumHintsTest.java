@@ -2,7 +2,7 @@ package com.EnumsFormatting;
 
 public enum EnumHintsTest {
 
-    CONSTR_ONE(true,true),
+    CONSTR_ONE(true, true),
     CONSTR_TWO(false, false);
 
 
