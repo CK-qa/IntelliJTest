@@ -20,7 +20,6 @@ public class CreateFile {
 
 
 	//test2
-	//some minor change to commit
 
 }
 
