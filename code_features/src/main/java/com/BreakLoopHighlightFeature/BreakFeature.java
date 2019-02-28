@@ -13,6 +13,7 @@ public class BreakFeature {
 				if (i == 3) {
 					break;
 				}
+
 			}
 		}
 
@@ -23,6 +24,7 @@ public class BreakFeature {
 						break;
 					}
 				}
+
 				if (rowNum == 0) {
 					break;
 				}
@@ -61,7 +63,6 @@ public class BreakFeature {
 						list.remove(blah);
 					}
 				}
-
 			}
 			while (true && true);
 		}
