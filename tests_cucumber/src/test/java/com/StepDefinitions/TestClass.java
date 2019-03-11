@@ -1,5 +1,6 @@
 package com.StepDefinitions;
 
+
 import cucumber.api.java.en.*;
 import org.junit.Assert;
 
@@ -30,7 +31,7 @@ public class TestClass {
         System.out.println("Scenario step3: Then he has " + number + "items");
     }
 
-    @And("^everybody happy$")
+    @Then("^everybody happy$")
     public void everybodyHappy() {
         // Write code here that turns the phrase above into concrete actions
         System.out.println("Scenario step4: And everybody happy\n");
