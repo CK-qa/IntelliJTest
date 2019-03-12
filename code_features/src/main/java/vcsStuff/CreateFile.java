@@ -21,8 +21,4 @@ public class CreateFile {
 
 	//test
 	//test18
-
-
-	//test2
-
 }
