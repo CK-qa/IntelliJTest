@@ -8,7 +8,7 @@ public class BreakFeature {
 	class Break {
 
 		public void simpleForLoopBreak() {
-			for ( int i = 1; i < 6; i++) {
+			for ( int i = 4; i < 9; i++) {
 				if (i == 3) {
 					break;
 				}
