@@ -1,6 +1,5 @@
 package com.BreakLoopHighlightFeature;
 
-import javax.swing.*;
 import java.util.Arrays;
 import java.util.List;
 
@@ -9,7 +8,7 @@ public class BreakFeature {
 	class Break {
 
 		public void simpleForLoopBreak() {
-			for ( int i = 0; i < 5; i++) {
+			for ( int i = 1; i < 6; i++) {
 				if (i == 3) {
 					break;
 				}
