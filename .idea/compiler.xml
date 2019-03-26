@@ -12,26 +12,6 @@
       <module name="code_kotlin_test" target="1.8" />
       <module name="code_python_main" target="1.8" />
       <module name="code_python_test" target="1.8" />
-      <module name="IdeaProjects-IntelliJTest_main" target="1.8" />
-      <module name="IdeaProjects-IntelliJTest_test" target="1.8" />
-      <module name="IntelliJTest-code_features_main" target="1.8" />
-      <module name="IntelliJTest-code_features_test" target="1.8" />
-      <module name="IntelliJTest-code_go_main" target="1.8" />
-      <module name="IntelliJTest-code_go_test" target="1.8" />
-      <module name="IntelliJTest-code_groovy_main" target="1.8" />
-      <module name="IntelliJTest-code_groovy_test" target="1.8" />
-      <module name="IntelliJTest-code_kotlin_main" target="1.8" />
-      <module name="IntelliJTest-code_kotlin_test" target="1.8" />
-      <module name="IntelliJTest-code_python_main" target="1.8" />
-      <module name="IntelliJTest-code_python_test" target="1.8" />
-      <module name="IntelliJTest-tests_cucumber_main" target="1.8" />
-      <module name="IntelliJTest-tests_cucumber_test" target="1.8" />
-      <module name="IntelliJTest-tests_jbehave_main" target="1.8" />
-      <module name="IntelliJTest-tests_jbehave_test" target="1.8" />
-      <module name="IntelliJTest-tests_junit_main" target="1.8" />
-      <module name="IntelliJTest-tests_junit_test" target="1.8" />
-      <module name="IntelliJTest-tests_testng_main" target="1.8" />
-      <module name="IntelliJTest-tests_testng_test" target="1.8" />
       <module name="IntelliJTest_main" target="1.8" />
       <module name="IntelliJTest_test" target="1.8" />
       <module name="tests_cucumber_main" target="1.8" />
