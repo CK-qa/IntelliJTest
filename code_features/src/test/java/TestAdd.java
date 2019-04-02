@@ -7,6 +7,4 @@ public class TestAdd {
 	//checkś
 
 	//check
-
-	//check
 }
