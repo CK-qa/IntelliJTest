@@ -15,6 +15,7 @@ There are several tools that needs to be tested on several OSs.
 
 
 Test 2FA
- - install 2fa application on your phone
+ - install 2fa application on your phone and pair it with your GitHub account 
+ - 
 
     
