@@ -13,4 +13,7 @@ There are several tools that needs to be tested on several OSs.
     - store: _`git config --global credential.helper 'store --file ~/.my-credentials'`_. The “store” mode saves the credentials to a plain-text file on disk, and they never expire. Until Git host password will be changed.
 - **Git Credential Manager for Windows:**
 
+
+Test 2FA
+
     
