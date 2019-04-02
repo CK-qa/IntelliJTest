@@ -4,18 +4,4 @@ public class TestAdd {
 	
 	//test
 
-	//checkś
-
-	//check
-
-	//check
-
-	//test
-
-	//check
-
-	//another
-
-	//change
-
 }
