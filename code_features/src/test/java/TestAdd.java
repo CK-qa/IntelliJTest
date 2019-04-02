@@ -16,7 +16,4 @@ public class TestAdd {
 
 	//another check
 
-	//test
-
-
 }
