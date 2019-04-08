@@ -8,5 +8,5 @@ public class A {
 
 	static String s = "asa";
 
-	int a = 15;
+	static int a = 15;
 }
