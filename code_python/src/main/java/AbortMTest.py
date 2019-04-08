@@ -1,7 +1,7 @@
-var1 = int(input())
-var2 = int(input())
-var3 = int(input())
+one = int(input())
+two = int(input())
+three = int(input())
 
-res = (var1 + var2 + var3) / 2
+res = (one + two + three) / 2
 
-print((res * (res - var1) * (res - var2) * (res - var3)) ** 0.5)
+print((res * (res - one) * (res - two) * (res - three)) ** 0.5)
