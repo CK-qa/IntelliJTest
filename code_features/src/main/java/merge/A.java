@@ -9,4 +9,6 @@ public class A {
 	static String s = "asa";
 
 	static int a = 15;
+
+	//some last chance change
 }
