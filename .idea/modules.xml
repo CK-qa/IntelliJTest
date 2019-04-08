@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJTest.iml" filepath="$PROJECT_DIR$/.idea/IntelliJTest.iml" group="IntelliJTest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/code_go/IntelliJTest-code_go.iml" filepath="$PROJECT_DIR$/.idea/modules/code_go/IntelliJTest-code_go.iml" group="code_go" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2071244017/IntelliJTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2071244017/IntelliJTest_main.iml" group="IntelliJTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliJTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliJTest_main.iml" group="IntelliJTest" />
