@@ -29,8 +29,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-613942704/tests_junit.iml" filepath="$PROJECT_DIR$/.idea/modules/-613942704/tests_junit.iml" group="IntelliJTest/tests_junit" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-613942704/tests_junit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-613942704/tests_junit_main.iml" group="IntelliJTest/tests_junit" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-613942704/tests_junit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-613942704/tests_junit_test.iml" group="IntelliJTest/tests_junit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng.iml" group="IntelliJTest/tests_testng" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1580680023/tests_testng.iml" filepath="$PROJECT_DIR$/.idea/modules/-1580680023/tests_testng.iml" group="IntelliJTest/tests_testng" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_main.iml" group="IntelliJTest/tests_testng" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1580680023/tests_testng_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1580680023/tests_testng_main.iml" group="IntelliJTest/tests_testng" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests_testng/tests_testng_test.iml" group="IntelliJTest/tests_testng" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1580680023/tests_testng_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1580680023/tests_testng_test.iml" group="IntelliJTest/tests_testng" />
     </modules>
   </component>

@@ -1,6 +1,6 @@
 package vcsStuff.conflicts;
 
-public class ConflictClass {
+public class ConflictClass_renamed {
 
 	//pewpewmeow
 }
