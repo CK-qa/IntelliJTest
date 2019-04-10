@@ -20,7 +20,6 @@ public class JUnitTestsClass {
 		System.out.println("This should be printed After Method execution\n");
 	}
 
-
 	@Test
 	public void greenJUnitTest() {
 		System.out.println("jUnitTest running");
