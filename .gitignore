@@ -18,7 +18,7 @@ to test
 filetotest.txt
 foldername
 
-file[0-9].txt
+filetest_**.txt
 
 
 
@@ -26,3 +26,6 @@ file[0-9].txt
 
 # test needs
 generated
+
+//*.txt
+*/out
