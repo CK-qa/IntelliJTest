@@ -1,4 +1,4 @@
-package com.EnumsFormatting;
+package com.exprmnts;
 
 public enum TestOrdering {
     ;
