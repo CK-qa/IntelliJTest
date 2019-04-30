@@ -9,6 +9,82 @@ public class ClassOne {
 
 	String a;
 	Integer i;
+	int b;
+
+	public static String toString(float f) {
+		return Float.toString(f);
+	}
+
+	public static String toHexString(float f) {
+		return Float.toHexString(f);
+	}
+
+	public static float parseFloat(String s) throws NumberFormatException {
+		return Float.parseFloat(s);
+	}
+
+	public static boolean isNaN(float v) {
+		return Float.isNaN(v);
+	}
+
+	public static boolean isInfinite(float v) {
+		return Float.isInfinite(v);
+	}
+
+	public static boolean isFinite(float f) {
+		return Float.isFinite(f);
+	}
+
+	public boolean isNaN() {
+		return f.isNaN();
+	}
+
+	public boolean isInfinite() {
+		return f.isInfinite();
+	}
+
+	public static int hashCode(float value) {
+		return Float.hashCode(value);
+	}
+
+	public static int floatToIntBits(float value) {
+		return Float.floatToIntBits(value);
+	}
+
+	public static int floatToRawIntBits(float value) {
+		return Float.floatToRawIntBits(value);
+	}
+
+	public static float intBitsToFloat(int bits) {
+		return Float.intBitsToFloat(bits);
+	}
+
+	public int compareTo(Float anotherFloat) {
+		return f.compareTo(anotherFloat);
+	}
+
+	public static int compare(float f1, float f2) {
+		return Float.compare(f1, f2);
+	}
+
+	public static float sum(float a, float b) {
+		return Float.sum(a, b);
+	}
+
+	public static float max(float a, float b) {
+		return Float.max(a, b);
+	}
+
+	public static float min(float a, float b) {
+		return Float.min(a, b);
+	}
+
+	Float f;
+
+	public ClassOne(String a, int b) {
+		this.a = a;
+		this.b = b;
+	}
 
 	public static String toString(int i, int radix) {
 		return Integer.toString(i, radix);
@@ -62,30 +138,6 @@ public class ClassOne {
 		return Integer.valueOf(s);
 	}
 
-	public byte byteValue() {
-		return i.byteValue();
-	}
-
-	public short shortValue() {
-		return i.shortValue();
-	}
-
-	public int intValue() {
-		return i.intValue();
-	}
-
-	public long longValue() {
-		return i.longValue();
-	}
-
-	public float floatValue() {
-		return i.floatValue();
-	}
-
-	public double doubleValue() {
-		return i.doubleValue();
-	}
-
 	public static int hashCode(int value) {
 		return Integer.hashCode(value);
 	}
@@ -104,10 +156,6 @@ public class ClassOne {
 
 	public static Integer decode(String nm) throws NumberFormatException {
 		return Integer.decode(nm);
-	}
-
-	public int compareTo(Integer anotherInteger) {
-		return i.compareTo(anotherInteger);
 	}
 
 	public static int compare(int x, int y) {
@@ -182,13 +230,6 @@ public class ClassOne {
 		return Integer.min(a, b);
 	}
 
-	int b;
-
-	public ClassOne(String a, int b) {
-		this.a = a;
-		this.b = b;
-	}
-
 	public static String join(CharSequence delimiter, CharSequence... elements) {
 		return String.join(delimiter, elements);
 	}
@@ -247,6 +288,34 @@ public class ClassOne {
 
 	public static String valueOf(double d) {
 		return String.valueOf(d);
+	}
+
+	public byte byteValue() {
+		return i.byteValue();
+	}
+
+	public short shortValue() {
+		return i.shortValue();
+	}
+
+	public int intValue() {
+		return i.intValue();
+	}
+
+	public long longValue() {
+		return i.longValue();
+	}
+
+	public float floatValue() {
+		return i.floatValue();
+	}
+
+	public double doubleValue() {
+		return i.doubleValue();
+	}
+
+	public int compareTo(Integer anotherInteger) {
+		return i.compareTo(anotherInteger);
 	}
 
 	public int length() {
