@@ -3,6 +3,12 @@ package com.PredictionsTests;
 public class ClassTwo {
 
 	float f;
+
+	public ClassTwo(float f, Integer i) {
+		this.f = f;
+		this.i = i;
+	}
+
 	Integer i;
 
 	public ClassTwo() {
