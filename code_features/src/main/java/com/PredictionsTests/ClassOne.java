@@ -10,6 +10,12 @@ public class ClassOne {
 	String a;
 	Integer i;
 	int b;
+	Float f;
+
+	public ClassOne(String a, int b) {
+		this.a = a;
+		this.b = b;
+	}
 
 	public static String toString(float f) {
 		return Float.toString(f);
@@ -35,14 +41,6 @@ public class ClassOne {
 		return Float.isFinite(f);
 	}
 
-	public boolean isNaN() {
-		return f.isNaN();
-	}
-
-	public boolean isInfinite() {
-		return f.isInfinite();
-	}
-
 	public static int hashCode(float value) {
 		return Float.hashCode(value);
 	}
@@ -59,10 +57,6 @@ public class ClassOne {
 		return Float.intBitsToFloat(bits);
 	}
 
-	public int compareTo(Float anotherFloat) {
-		return f.compareTo(anotherFloat);
-	}
-
 	public static int compare(float f1, float f2) {
 		return Float.compare(f1, f2);
 	}
@@ -77,13 +71,6 @@ public class ClassOne {
 
 	public static float min(float a, float b) {
 		return Float.min(a, b);
-	}
-
-	Float f;
-
-	public ClassOne(String a, int b) {
-		this.a = a;
-		this.b = b;
 	}
 
 	public static String toString(int i, int radix) {
@@ -288,6 +275,18 @@ public class ClassOne {
 
 	public static String valueOf(double d) {
 		return String.valueOf(d);
+	}
+
+	public boolean isNaN() {
+		return f.isNaN();
+	}
+
+	public boolean isInfinite() {
+		return f.isInfinite();
+	}
+
+	public int compareTo(Float anotherFloat) {
+		return f.compareTo(anotherFloat);
 	}
 
 	public byte byteValue() {
