@@ -2,6 +2,25 @@ package com.PredictionsTests;
 
 public class ClassOne {
 
+	String a;
+	int b;
+
+	public String getA() {
+		return a;
+	}
+
+	public void setA(String a) {
+		this.a = a;
+	}
+
+	public int getB() {
+		return b;
+	}
+
+	public void setB(int b) {
+		this.b = b;
+	}
+
 	@Override
 	public String toString() {
 		return new org.apache.commons.lang3.builder.ToStringBuilder(this)
