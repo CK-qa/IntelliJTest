@@ -561,6 +561,4 @@ public class ClassOne {
 	public String foo() {
 		return "Sss";
 	}
-
-
 }
