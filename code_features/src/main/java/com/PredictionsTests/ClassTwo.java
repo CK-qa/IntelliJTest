@@ -3,6 +3,15 @@ package com.PredictionsTests;
 public class ClassTwo {
 
 	float f;
+	Integer i;
+
+	public ClassTwo(float f, Integer i) {
+		this.f = f;
+		this.i = i;
+	}
+
+	public ClassTwo() {
+	}
 
 	public static String toString(int i, int radix) {
 		return Integer.toString(i, radix);
@@ -60,30 +69,6 @@ public class ClassTwo {
 		return Integer.valueOf(i);
 	}
 
-	public byte byteValue() {
-		return i.byteValue();
-	}
-
-	public short shortValue() {
-		return i.shortValue();
-	}
-
-	public int intValue() {
-		return i.intValue();
-	}
-
-	public long longValue() {
-		return i.longValue();
-	}
-
-	public float floatValue() {
-		return i.floatValue();
-	}
-
-	public double doubleValue() {
-		return i.doubleValue();
-	}
-
 	public static int hashCode(int value) {
 		return Integer.hashCode(value);
 	}
@@ -102,10 +87,6 @@ public class ClassTwo {
 
 	public static Integer decode(String nm) throws NumberFormatException {
 		return Integer.decode(nm);
-	}
-
-	public int compareTo(Integer anotherInteger) {
-		return i.compareTo(anotherInteger);
 	}
 
 	public static int compare(int x, int y) {
@@ -180,14 +161,32 @@ public class ClassTwo {
 		return Integer.min(a, b);
 	}
 
-	Integer i;
-
-	public ClassTwo(float f, Integer i) {
-		this.f = f;
-		this.i = i;
+	public byte byteValue() {
+		return i.byteValue();
 	}
 
-	public ClassTwo() {
+	public short shortValue() {
+		return i.shortValue();
+	}
+
+	public int intValue() {
+		return i.intValue();
+	}
+
+	public long longValue() {
+		return i.longValue();
+	}
+
+	public float floatValue() {
+		return i.floatValue();
+	}
+
+	public double doubleValue() {
+		return i.doubleValue();
+	}
+
+	public int compareTo(Integer anotherInteger) {
+		return i.compareTo(anotherInteger);
 	}
 
 	public Integer getI() {
