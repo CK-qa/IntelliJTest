@@ -2,6 +2,16 @@ package com.PredictionsTests;
 
 public class ClassOne {
 
+	@Override
+	protected Object clone() throws CloneNotSupportedException {
+		return super.clone();
+	}
+
+	@Override
+	protected void finalize() throws Throwable {
+		super.finalize();
+	}
+
 	String a;
 	int b;
 
