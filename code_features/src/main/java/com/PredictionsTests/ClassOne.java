@@ -2,22 +2,28 @@ package com.PredictionsTests;
 
 public class ClassOne {
 
-	@Override
-	protected Object clone() throws CloneNotSupportedException {
-		return super.clone();
-	}
-
-	@Override
-	protected void finalize() throws Throwable {
-		super.finalize();
-	}
-
 	String a;
 	int b;
 
 	public ClassOne(String a, int b) {
 		this.a = a;
 		this.b = b;
+	}
+
+	@Override
+	protected Object clone() throws CloneNotSupportedException {
+		return super.clone();
+	}
+
+	@Override
+	public String toString() {
+		return new org.apache.commons.lang3.builder.ToStringBuilder(this)
+				.toString();
+	}
+
+	@Override
+	protected void finalize() throws Throwable {
+		super.finalize();
 	}
 
 	public String getA() {
@@ -34,12 +40,6 @@ public class ClassOne {
 
 	public void setB(int b) {
 		this.b = b;
-	}
-
-	@Override
-	public String toString() {
-		return new org.apache.commons.lang3.builder.ToStringBuilder(this)
-				.toString();
 	}
 
 	/**
