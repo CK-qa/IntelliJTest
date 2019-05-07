@@ -2,7 +2,7 @@ package com.bugfix.a_branch_aa.a_long_package_name.another_long_package_name.one
 
 public class ClassA {
 
-	//change for committ
+	//change for commit
 
 
 }
