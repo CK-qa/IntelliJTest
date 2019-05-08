@@ -22,6 +22,10 @@
       <module name="IntelliJTest-code_kotlin_test" target="1.8" />
       <module name="IntelliJTest-code_python_main" target="1.8" />
       <module name="IntelliJTest-code_python_test" target="1.8" />
+      <module name="IntellijTest-IntelliJTest_main" target="1.8" />
+      <module name="IntellijTest-IntelliJTest_test" target="1.8" />
+      <module name="IntelliJTest-tests_cucumber_main" target="1.8" />
+      <module name="IntelliJTest-tests_cucumber_test" target="1.8" />
       <module name="IntelliJTest-tests_jbehave_main" target="1.8" />
       <module name="IntelliJTest-tests_jbehave_test" target="1.8" />
       <module name="IntelliJTest-tests_junit_main" target="1.8" />

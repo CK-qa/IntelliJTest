@@ -12,7 +12,6 @@ public class BreakFeature {
 				if (i == 3) {
 					break;
 				}
-
 			}
 		}
 
