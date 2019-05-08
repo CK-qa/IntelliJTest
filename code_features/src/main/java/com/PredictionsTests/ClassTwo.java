@@ -6,4 +6,8 @@ public class ClassTwo {
 	Integer i;
 	String s;
 
+
+	public void bar() {
+
+	}
 }
