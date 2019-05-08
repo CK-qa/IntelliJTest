@@ -29,4 +29,6 @@ generated
 //*.txt
 */out
 
-/target/
+*/target/*
+
+*/.gradle/*
