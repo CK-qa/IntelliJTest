@@ -1,1 +1,17 @@
 *.iml
+
+# Project exclude paths
+/.gradle/
+/code_features/build/
+/code_features/build/classes/java/main/
+/code_features/build/classes/java/test/
+/code_kotlin/build/
+/tests_jbehave/build/
+/tests_jbehave/build/classes/java/test/
+/tests_junit/build/
+/tests_junit/build/classes/java/test/
+/tests_testng/build/
+/tests_testng/build/classes/java/test/
+/code_features/src
+
+*.
