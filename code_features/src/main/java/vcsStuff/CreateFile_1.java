@@ -2,7 +2,7 @@ package vcsStuff;
 
 import java.io.*;
 
-public class CreateFile {
+public class CreateFile_1 {
 
 	public static void main(String[] args) throws IOException {
 
