@@ -12,6 +12,7 @@
 /tests_junit/build/classes/java/test/
 /tests_testng/build/
 /tests_testng/build/classes/java/test/
-/code_features/src
 
-*.
+
+
+/com/test_to_run.story
