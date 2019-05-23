@@ -39,4 +39,6 @@ filetest_**.txt
 */out
 
 
-/com/test_to_run.story
+/c
+
+.gradle
