@@ -39,6 +39,6 @@ filetest_**.txt
 */out
 
 
-/c
+target
 
 .gradle

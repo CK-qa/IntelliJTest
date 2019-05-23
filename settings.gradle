@@ -22,4 +22,5 @@ include 'code_features'
 include 'code_kotlin'
 include 'tests_cucumber'
 include 'tests_cucumber'
+include 'a_vcs_features'
 
