@@ -5,7 +5,7 @@ Expiration date: July 10, 2019
 Runtime version: 11.0.3+12-b304.2 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
 Linux 5.0.0-15-generic
-                    GC: G1 Young Generation, G1 Old Generation
+GC: G1 Young Generation, G1 Old Generation
                     Memory: 750M
                     Cores: 2
                     Registry: vcs.non.modal.commit=true, git.explicit.commit.renames.prohibit.multiple.calls=false, suppress.focus.stealing=false
