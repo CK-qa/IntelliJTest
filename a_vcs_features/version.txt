@@ -9,4 +9,4 @@ IntelliJ IDEA 2019.2 Snapshot (Ultimate Edition)
                     Memory: 750M
                     Cores: 2
                     Registry: vcs.non.modal.commit=true, git.explicit.commit.renames.prohibit.multiple.calls=false, suppress.focus.stealing=false
-                    Non-Bundled Plugins:
+                    Non-Bundled Plugins
