@@ -2,11 +2,11 @@ IntelliJ IDEA 2019.2 Snapshot (Ultimate Edition)
 Build #IU-192.5047, built on June 10, 2019
 IntelliJ IDEA EAP User
 Expiration date: July 10, 2019
-Runtime version: 11.0.3+12-b304.2 amd64
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+Runtime ololo: 11.0.3+12-b304.2 amd64
+VM: pewpew 64-Bit Server VM by JetBrains s.r.o
 Linux 5.0.0-15-generic
 GC: G1 Young Generation, G1 Old Generation
 Memory: 750M
 Cores: 2
-                    Registry: vcs.non.modal.commit=true, git.explicit.commit.renames.prohibit.multiple.calls=false, suppress.focus.stealing=false
-                   Non-Bundled Plugins
+Registry: vcs.non.modal.commit=true, git.explicit.commit.renames.prohibit.multiple.calls=false, suppress.focus.stealing=false
+Non-Bundled Plugins
