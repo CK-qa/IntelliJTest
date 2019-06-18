@@ -18,26 +18,26 @@
       <module name="IdeaProjects-IntellijTest-IntelliJTest_test" target="1.8" />
       <module name="IntelliJTest-a_vcs_features_main" target="1.8" />
       <module name="IntelliJTest-a_vcs_features_test" target="1.8" />
-      <module name="IntelliJTest-code_features_main" target="1.8" />
-      <module name="IntelliJTest-code_features_test" target="1.8" />
-      <module name="IntelliJTest-code_go_main" target="1.8" />
-      <module name="IntelliJTest-code_go_test" target="1.8" />
-      <module name="IntelliJTest-code_groovy_main" target="1.8" />
-      <module name="IntelliJTest-code_groovy_test" target="1.8" />
-      <module name="IntelliJTest-code_kotlin_main" target="1.8" />
-      <module name="IntelliJTest-code_kotlin_test" target="1.8" />
-      <module name="IntelliJTest-code_python_main" target="1.8" />
-      <module name="IntelliJTest-code_python_test" target="1.8" />
+      <module name="IntellijTest-code_features_main" target="1.8" />
+      <module name="IntellijTest-code_features_test" target="1.8" />
+      <module name="IntellijTest-code_go_main" target="1.8" />
+      <module name="IntellijTest-code_go_test" target="1.8" />
+      <module name="IntellijTest-code_groovy_main" target="1.8" />
+      <module name="IntellijTest-code_groovy_test" target="1.8" />
+      <module name="IntellijTest-code_kotlin_main" target="1.8" />
+      <module name="IntellijTest-code_kotlin_test" target="1.8" />
+      <module name="IntellijTest-code_python_main" target="1.8" />
+      <module name="IntellijTest-code_python_test" target="1.8" />
       <module name="IntellijTest-IntelliJTest_main" target="1.8" />
       <module name="IntellijTest-IntelliJTest_test" target="1.8" />
-      <module name="IntelliJTest-tests_cucumber_main" target="1.8" />
-      <module name="IntelliJTest-tests_cucumber_test" target="1.8" />
-      <module name="IntelliJTest-tests_jbehave_main" target="1.8" />
-      <module name="IntelliJTest-tests_jbehave_test" target="1.8" />
-      <module name="IntelliJTest-tests_junit_main" target="1.8" />
-      <module name="IntelliJTest-tests_junit_test" target="1.8" />
-      <module name="IntelliJTest-tests_testng_main" target="1.8" />
-      <module name="IntelliJTest-tests_testng_test" target="1.8" />
+      <module name="IntellijTest-tests_cucumber_main" target="1.8" />
+      <module name="IntellijTest-tests_cucumber_test" target="1.8" />
+      <module name="IntellijTest-tests_jbehave_main" target="1.8" />
+      <module name="IntellijTest-tests_jbehave_test" target="1.8" />
+      <module name="IntellijTest-tests_junit_main" target="1.8" />
+      <module name="IntellijTest-tests_junit_test" target="1.8" />
+      <module name="IntellijTest-tests_testng_main" target="1.8" />
+      <module name="IntellijTest-tests_testng_test" target="1.8" />
       <module name="IntelliJTest_main" target="1.8" />
       <module name="IntelliJTest_test" target="1.8" />
       <module name="repo-IntelliJTest_main" target="1.8" />
