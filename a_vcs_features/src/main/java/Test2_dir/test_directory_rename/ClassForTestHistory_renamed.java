@@ -8,4 +8,6 @@ public class ClassForTestHistory_renamed {
 
 	//change3
 
+	//change4
+
 }
