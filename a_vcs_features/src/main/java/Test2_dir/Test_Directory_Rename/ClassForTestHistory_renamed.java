@@ -1,4 +1,4 @@
-package Test2_dir.test_directory_rename;
+package Test2_dir.Test_Directory_Rename;
 
 public class ClassForTestHistory_renamed {
 
