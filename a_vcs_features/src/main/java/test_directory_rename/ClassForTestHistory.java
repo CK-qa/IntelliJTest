@@ -1,4 +1,4 @@
-package test_directory;
+package test_directory_rename;
 
 public class ClassForTestHistory {
 
