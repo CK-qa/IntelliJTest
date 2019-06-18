@@ -1,6 +1,6 @@
 package Test2_dir.Test_Directory_Rename;
 
-public class ClassForTestHistory_renamed {
+public class ClassForTestHistory_Renamed {
 
 	//change
 
