@@ -41,3 +41,4 @@ filetest_**.txt
 
 target
 
+/tests_cucumber/.gradle/4.8/fileHashes/fileHashes.bin
