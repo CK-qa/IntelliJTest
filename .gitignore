@@ -24,6 +24,7 @@ filetest_**.txt
 
 # Project exclude paths
 /.gradle/
+/tests_cucumber/.gradle/
 /code_features/build/
 /code_features/build/classes/java/main/
 /code_features/build/classes/java/test/
@@ -38,7 +39,3 @@ filetest_**.txt
 /*.txt
 */out
 
-
-target
-
-/tests_cucumber/.gradle/4.8/fileHashes/fileHashes.bin
