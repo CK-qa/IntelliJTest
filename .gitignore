@@ -39,3 +39,6 @@ filetest_**.txt
 /*.txt
 */out
 
+target
+gradle
+
