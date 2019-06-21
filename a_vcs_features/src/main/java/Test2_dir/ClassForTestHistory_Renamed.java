@@ -8,6 +8,6 @@ public class ClassForTestHistory_Renamed {
 
 	//change3
 
-	//change4
+	//conflict
 
 }
