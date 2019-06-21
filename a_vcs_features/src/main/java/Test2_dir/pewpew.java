@@ -1,6 +1,6 @@
-package test_dir;
+package Test2_dir;
 
 public class pewpew {
 
-	//change
+	//ololo
 }
