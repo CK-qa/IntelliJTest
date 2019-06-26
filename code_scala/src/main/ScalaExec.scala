@@ -9,7 +9,4 @@ class ScalaExec {
   def main(args: Array[String]): Unit = {
     squareof(5)
   }
-
 }
-
-

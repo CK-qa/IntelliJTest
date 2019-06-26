@@ -1,0 +1,13 @@
+Index: code_features/src/main/java/com/BreakLoopHighlightFeature/BreakFeature.java
+===================================================================
+--- code_features/src/main/java/com/BreakLoopHighlightFeature/BreakFeature.java	(date 1556543966000)
++++ code_features/src/main/java/com/BreakLoopHighlightFeature/BreakFeature_renamed.java	(date 1556540084725)
+@@ -3,7 +3,7 @@
+ import java.util.Arrays;
+ import java.util.List;
+ 
+-public class BreakFeature {
++public class BreakFeature_renamed {
+ 
+ 	class Break {
+ 

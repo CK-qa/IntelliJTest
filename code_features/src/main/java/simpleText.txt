@@ -1,4 +1,5 @@
 Project tool window | context menu of a file | Compare File with Editor
+
 Project tool window | context menu of a file | Compare Files
 Version Control tool window | Local Changes tab | - icons actions diff svg
 Version Control tool window | context menu of a folder or file | Show Diff

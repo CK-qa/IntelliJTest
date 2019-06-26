@@ -1,0 +1,40 @@
+dfdfdf
+df
+dfd
+f
+dfd
+f
+df
+d
+fdferererer
+dfdffdfdfdfdfdeeere
+fd
+fd
+fd
+f
+IntelliJ IDEA 2019.3 Snapshot (Ultimate Edition)
+Build #IU-193.228, built on June 17, 2019
+IntelliJ IDEA EAP User
+Expiration date: July 10, 2019
+Runtime ololo: 11.0.3+12-b304.2 amd64
+VM: pewpew 64-Bit Server VM by JetBrains s.r.o
+Linux 5.0.0-15-generic
+GC: G1 Young Generation, G1 Old Generation
+Memory: 750M
+Cores: 2
+Registry: vcs.non.modal.commit=true, git.explicit.commit.renames.prohibit.multiple.calls=false, suppress.focus.stealing=false
+Non-Bundled Plugins
+
+
+Registry: vcs.log.speedsearch=true, git.explicit.commit.renames.prohibit.multiple.calls=false
+Non-Bundled Plugins:
+//change
+cvc
+vc
+vc
+vc
+vc
+vc
+vc
+vc
+v

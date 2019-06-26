@@ -16,6 +16,10 @@ public class SimpleJavaCodeFile {
         System.out.println(methodWithNestedCode("uno", 1));
     }
 
+    public void change() {
+
+    }
+
     private static String methodWithNestedCode(String s,
                                                int i) {
         StringBuilder sb = new StringBuilder();
@@ -28,11 +32,16 @@ public class SimpleJavaCodeFile {
                 '.'};
         for (char c : helloArray) {
             res = sb.append(c).append(" ")
-                    .toString().replaceAll("\\s", "");
+                    .toString().replaceAll("\\s", "\\");
         }
         return res
                 .toUpperCase();
     }
+    public boolean boo() {
+        return true;
+    }
+
+
 
     private void regexCheck() {
         str.replaceAll("\\QmyString\\E", "");

@@ -6,4 +6,7 @@ case class ScalaClass()
     def main(args: Array[String]): Unit = {
       val f = ScalaClass()
     }
+
+
+
 }
